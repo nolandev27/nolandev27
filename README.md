@@ -1,29 +1,41 @@
 # Hi there, I'm Nolan! 👋
 
-### 📊 Data Analyst | SQL & Python Enthusiast | Tech Builder
+## 📊 Data & BI Analyst | SQL, Power BI & Python Specialist
 
-I am a passionate and detail-oriented Data Analyst driven by the challenge of transforming raw, complex data into clear, actionable business strategies. With a strong foundation in hardware infrastructure, automation, and database systems, I specialize in building end-to-end data pipelines that empower decision-making.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-*   **Data Analysis & Analytics:** SQL (SQLite, PostgreSQL), Python (Pandas, NumPy), Power BI
-*   **Automation & Scripting:** Python automation scripts, API integrations, Webhooks
-*   **Infrastructure & Systems:** System benchmarking, Custom PC builds, Database optimization
-*   **Core Strengths:** Data cleaning, ETL pipelines, performance metrics auditing, problem-solving
+I am a detail-oriented Data Analyst focused on transforming raw, complex data into interactive executive dashboards, clear business metrics, and strategic insights. I specialize in designing relational database schemas in SQL, modeling data in Power BI (DAX), and building automated ETL Python scripts to streamline reporting workflows.
 
 ---
 
-### 🚀 Highlighted Project: Video Game Analytics Pipeline
-*   **The Problem:** A high-velocity multiplayer gaming clan needed to audit tournament performance, but players frequently swapped between multiple "dummy" and "principal" accounts to optimize in-game resources, creating massive data duplication.
-*   **The Solution:** Developed a local backend pipeline using **Python** to extract live transactional activity logs into an **SQLite** database. Designed complex conditional queries (`CASE WHEN`, `LIKE` wildcards) to un-duplicate, clean, and consolidate user records based on operational mappings.
-*   **The Impact:** Successfully generated centralized, deduplicated performance metrics ("Burn Lists") for over 35 concurrent users, later visualized in dynamic dashboards to measure organizational velocity.
+## 🛠️ Tech Stack & Core Skills
+
+* **Business Intelligence & Visualization:** Power BI Desktop, DAX (Calculated Measures & Columns), Power Query, Dimensional Data Modeling (Star Schema), Executive UI/UX Design.
+* **Database & Querying:** SQL (SQLite, PostgreSQL, MySQL) — Complex JOINs, Aggregations, Subqueries, CTEs, Data Integrity Constraints.
+* **Data Processing & Analysis:** Advanced Excel (Pivot Tables, Power Pivot, Data Cleaning, Lookup Functions), Python (Pandas, NumPy).
+* **Automation & Scripting:** Python ETL Pipelines, Web Scraping (BeautifulSoup, Requests), Discord Webhooks, REST APIs.
+* **Version Control & Tools:** Git, GitHub, VS Code, Environment Security (`.env`).
 
 ---
 
-### 📫 Connect with me
-*   **LinkedIn:** www.linkedin.com/in/nolan-clavo-b2364930b
-*   **Email:** clavonolan@gmail.com
+## 🚀 Featured Projects
 
-*“Turning chaos into structured insights, one query at a time.”*
+### 🛒 [Kaizen E-Commerce Sales & Performance Dashboard](https://github.com/nolandev27/kaizen-ecommerce-analysis)
+* **Tech Stack:** SQLite, Power BI (DAX, Power Query), Excel, Git/GitHub.
+* **The Solution:** Modeled an End-to-End e-commerce dataset from raw SQLite tables into a high-performance Star Schema (`Fact_Ventas`, `Dim_Clientes`, `Dim_Productos`).
+* **The Impact:** Built dynamic DAX measures for Revenue, AOV, and Volume across 6 regional markets, presenting actionable insights via a custom executive SaaS interface (AURA System).
+
+### 🤖 [End-to-End Analytics & Clan Performance Monitor](https://github.com/nolandev27/NinjaKaizen-Clan-Monitor)
+* **Tech Stack:** Python, SQLite, Power BI (DAX), Discord Webhooks, Git/GitHub.
+* **The Solution:** Developed an automated Python pipeline for live data extraction (web scraping) and structured log persistence into SQLite with `UNIQUE` constraints to eliminate duplicate records for 35+ active users.
+* **The Impact:** Saved 100% of manual tracking efforts, pushing automated alerts via Webhooks and modeling historical player velocity metrics in Power BI.
+
+---
+
+## 📫 Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/nolan-clavo-b2364930b](https://www.linkedin.com/in/nolan-clavo-b2364930b)
+* **Email:** [clavonolan@gmail.com](mailto:clavonolan@gmail.com)
+* **GitHub Portfolio:** [github.com/nolandev27](https://github.com/nolandev27)
+
+---
+
+> *"Turning raw data chaos into structured insights and automated decisions."*
